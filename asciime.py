@@ -12,7 +12,7 @@
 # THINGS TO DO:
 # - input filenames.
 # - real dimensions of the poster given any photo.
-# -
+#
 #-------------------------------------------------------------------------------
 from PIL import Image
 import numpy
